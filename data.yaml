@@ -1,0 +1,6 @@
+path: D:\CV\datasets
+train: images/train
+val: images/val
+
+nc: 23
+names: ['bunker_type', 'covered_vagon', 'dump_car', 'fitting_platform', 'gondola_cars', 'hopper_cars', 'isothermal_cars', 'platform', 'tank_car', 'klasni_vagon', 'kriti_xoper', 'mashina_prsm', 'mashina_sm', 'platforma_uso', 'platforma_ppk', 'relsovozni_sostav', 'rshp', 'sostav_zosoritel', 'ukladoscni_kranYK', 'ukladoscni_kranYKSP', 'vagon_ledniki', 'vagon_mtso', 'vpo']
